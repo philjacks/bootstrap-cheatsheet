@@ -1,0 +1,28 @@
+#carousel {
+  max-height: 70vh;
+}
+.card {
+  margin: 0 auto 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.carousel-caption {
+  top: 20%;
+  bottom: auto;
+}
+.caption-2 {
+  text-align: left;
+  color: black;
+}
+.caption-3 {
+  text-align: right;
+}
+footer {
+  background-color: grey;
+  text-align: Center;
+  padding: 40px;
+}
+#thanks_footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
